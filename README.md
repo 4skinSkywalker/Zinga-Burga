@@ -16,6 +16,12 @@ You can find more details about the Racer 3 at [Racer 3 | The Drone Racing Leagu
 
 ![Teaser GIF](/images/racer-teaser.gif)
 
+### Donation
+
+If you want to support this project buy me a coffee or a sandwich if you prefer! :D
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3UN95QQCD4B7E)
+
 ### Tech
 
 ![Tech List](/images/tech-list.png)
@@ -44,11 +50,12 @@ The following parts should be 3D printed by a professional service with the high
 
 ### Drawings for Cutting
 
-The following part has to be cutted from a carbon sheets of 5 mm.
+The following parts have to be cutted from a carbon sheets of 5 mm.
 
 | Part | Image | File Path |
 | ------ | ------ | ------ |
 | Frame | ![Frame](/images/frame.png) | /drawings/frame.stl |
+| Frame (with text) | ![Frame](/images/frame-text.png) | /drawings/frame-text.stl |
 
 ### Todos
 
