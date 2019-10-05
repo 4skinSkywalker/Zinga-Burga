@@ -51,7 +51,8 @@ The following parts have to be cutted from a carbon sheets of 5 mm.
 | Part | Image | File Path |
 | ------ | ------ | ------ |
 | Frame | ![Frame](/images/frame.png) | /drawings/frame.stl |
-| Frame (with text) | ![Frame](/images/frame-text.png) | /drawings/frame-text.stl |
+| Frame (with text) | ![Frame](/images/frame-with-text.png) | /drawings/frame-text.stl |
+| Frame (Sir Sparv) | ![Frame](/images/frame-sir-sparv.png) | /drawings/frame-alternative.stl |
 
 ### Todos
 
