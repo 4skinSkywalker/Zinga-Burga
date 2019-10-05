@@ -61,8 +61,9 @@ The following parts have to be cut from a carbon sheets of 5 mm.
 
 ### Special Thanks
 
-- Sir Sparv
-- KwadfordFPV
+- [Fredo Corleone](https://www.youtube.com/c/fredo-corleone)
+- [Sir Sparv](https://www.youtube.com/channel/UC-9WetvTo3zA4VDCfW7JWAg)
+- [KwadfordFPV](https://www.youtube.com/channel/UCoIdXxxZ-wNB4rlw14snUsg)
 
 ### Contribute
 
