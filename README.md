@@ -6,7 +6,7 @@
        |\________\ \__\ \__\\ \__\ \_______\ \__\ \__\       \ \_______\ \_______\ \__\\ _\\ \_______\ \__\ \__\
         \|_______|\|__|\|__| \|__|\|_______|\|__|\|__|        \|_______|\|_______|\|__|\|__|\|_______|\|__|\|__|
 
-![Burga Top GIF](/images/zinga-top.gif)
+(TODO: here goes Sir Sparv exploded scheme)
 
 Zinga Burga is 3D printable replica of the Racer 3 by DRL.
 
@@ -33,8 +33,6 @@ To build a proper replica you should use the following components:
 But you really can use whatever you want to fit into it.
 
 ### 3D Models
-
-![Exploded Full Model](/images/explodel-full-model)
 
 The following parts should be 3D printed by a professional service with the highest level of precision.
 
