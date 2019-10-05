@@ -6,7 +6,7 @@
        |\________\ \__\ \__\\ \__\ \_______\ \__\ \__\       \ \_______\ \_______\ \__\\ _\\ \_______\ \__\ \__\
         \|_______|\|__|\|__| \|__|\|_______|\|__|\|__|        \|_______|\|_______|\|__|\|__|\|_______|\|__|\|__|
 
-(TODO: here goes Sir Sparv exploded scheme)
+![Exploded Full Model](/images/zinga-burga-exploded.png)
 
 Zinga Burga is 3D printable replica of the Racer 3 by DRL.
 
