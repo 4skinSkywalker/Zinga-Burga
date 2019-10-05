@@ -64,6 +64,19 @@ The following parts have to be cut from a carbon sheets of 5 mm.
 - Sir Sparv
 - KwadfordFPV
 
+### Contribute
+
+Become an open source contributor in 7 steps (_it takes less than 30 minutes_):
+1. Fork this repository
+2. Clone the repository into your PC
+3. Create a new branch
+4. Change whatever you think it has to be improved
+5. Commit your changes
+6. Push your changes to GitHub
+7. Submit a PR
+
+Your changes **won't be visible immediately**; first they have to be merged by the project maintainer.
+
 License
 ----
 
