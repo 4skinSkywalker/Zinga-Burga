@@ -42,11 +42,11 @@ The following parts should be 3D printed by a professional service with the high
 
 | Part | Image | File Path | Material |
 | ------ | ------ | ------ | ------ |
-| Camera Mount | ![Camera Mount](/images/camera-mount.png) | /models/camera-mount.stl | TPU |
-| Canopy Bottom | ![Canopy Bottom](/images/canopy-bottom.png) | /models/canopy-bottom.stl | ABS |
-| Canopy Top | ![Canopy Top](/images/canopy-top.png) | /models/canopy-top.stl | ABS |
-| Front Glass (not to print) | ![Front Glass](/images/front-glass.png) | /models/front-glass.stl | |
-| Frame (not to print) | ![Frame](/images/frame.png) | /models/frame.stl | |
+| Camera Mount | ![Camera Mount](/images/camera-mount.gif) | /models/camera-mount.stl | TPU |
+| Canopy Bottom | ![Canopy Bottom](/images/canopy-bottom.gif) | /models/canopy-bottom.stl | ABS |
+| Canopy Top | ![Canopy Top](/images/canopy-top.gif) | /models/canopy-top.stl | ABS |
+| Front Glass (not to print) | ![Glass](/images/glass.gif) | /models/glass.stl | |
+| Frame (not to print) | ![Frame](/images/frame.gif) | /models/frame.stl | |
 
 ### Drawings for Cutting
 
