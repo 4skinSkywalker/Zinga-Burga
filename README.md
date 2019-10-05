@@ -46,7 +46,7 @@ The following parts should be 3D printed by a professional service with the high
 
 ### Drawings for Cutting
 
-The following parts have to be cutted from a carbon sheets of 5 mm.
+The following parts have to be cut from a carbon sheets of 5 mm.
 
 | Part | Image | File Path |
 | ------ | ------ | ------ |
