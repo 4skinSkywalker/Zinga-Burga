@@ -61,8 +61,8 @@ The following parts have to be cutted from a carbon sheets of 5 mm.
 
 ### Special Thanks
 
-- KwadfordFPV
 - Sir Sparv
+- KwadfordFPV
 
 License
 ----
