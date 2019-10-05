@@ -59,7 +59,7 @@ The following parts have to be cut from a carbon sheets of 5 mm.
  - Do MORE test prints with various materials
  - Manufacture it with PolyCarbonate just like the Racer 3
 
-### Special Thanks
+### Contributors
 
 - [Fredo Corleone](https://www.youtube.com/c/fredo-corleone)
 - [Sir Sparv](https://www.youtube.com/channel/UC-9WetvTo3zA4VDCfW7JWAg)
