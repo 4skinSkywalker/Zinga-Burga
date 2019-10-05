@@ -67,4 +67,9 @@ The following parts have to be cutted from a carbon sheets of 5 mm.
 License
 ----
 
-MIT
+Copyright (c) 2019
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of these files, to deal with it without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish and distribute.
