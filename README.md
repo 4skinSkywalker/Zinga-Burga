@@ -14,8 +14,6 @@ Zinga Burga is 3D printable replica of the Racer 3 by DRL.
 
 You can find more details about the Racer 3 at [Racer 3 | The Drone Racing League](https://thedroneracingleague.com/racer3/).
 
-![Teaser GIF](/images/racer-teaser.gif)
-
 ### Donation
 
 If you want to support this project buy me a coffee or a sandwich if you prefer! :D
